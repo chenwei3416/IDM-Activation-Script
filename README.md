@@ -1,4 +1,4 @@
-# 免责声明，这个仓库用于备份此工具，如有侵权请告知
+# 免责声明：这个仓库用于备份此工具，如有侵权请告知
 # Disclaimer: This repository is used to back up this tool. If there is any infringement, please inform us.
 
 # IDM Activation Script
